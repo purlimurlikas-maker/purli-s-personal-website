@@ -6,9 +6,9 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 .about-box{ color: #003559; background-color: #E4C9B0; width: 600px; height: 150px; border: 3px solid #003559; border-radius: 30px; padding: 10px }
 h1 { color: #002f4f; font-family: 'Courier New', Courier, monospace; font-weight: 900; font-style: italic; text-align: center; font-size: 60px }
 h2 { color: #002f4f; font-family: 'Courier New', Courier, monospace; font-weight: 900; font-style: italic; text-align: justify; font-size: 23px }
-nav{ text-align:justify }
+nav{ text-align:center }
 .permission-box { color: #003559; background-color: #E4C9B0; width: 600px; height: 350px; border: 3px solid #003559; border-radius: 30px; padding: 10px }
-.aboutpurli-box { color: #003559; background-color: #E4C9B0; width: 600px; height: 170px; border: 3px solid #003559; border-radius: 30px; padding: 10px }
+.whospurli-box { color: #003559; background-color: #E4C9B0; width: 600px; height: 170px; border: 3px solid #003559; border-radius: 30px; padding: 10px }
 .quotes-box { color: #003559; background-color: #e9c1e7; width: 600px; height: 450px; border: 3px solid #003559; border-radius: 30px; padding: 10px }
 .whatpurlilookslike { color: #003559; background-color: #E4C9B0; width: 600px; height: 750px; border: 3px solid #003559; border-radius: 30px; padding: 10px }
 .passions { color: #003559; background-color: #E4C9B0; width: 600px; height: 400px; border: 3px solid #003559; border-radius: 30px; padding: 10px }
