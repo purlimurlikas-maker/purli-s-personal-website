@@ -3,11 +3,22 @@ background-color: #809BCE;
 font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.about-box{ float:left;color: #003559; background-color: #E4C9B0; width: 600px; height: 300px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
+
 h1 { color: #002f4f; font-family: 'Courier New', Courier, monospace; font-weight: 900; font-style: italic; text-align: center; font-size: 60px }
 h2 { color: #002f4f; font-family: 'Courier New', Courier, monospace; font-weight: 900; font-style: italic; text-align: justify; font-size: 23px }
 nav{ text-align:center } 
-.permission-box { float:left; color: #003559; background-color: #E4C9B0; width: 600px; height: 300px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
+
+
+body { .about-box{ float:left;color: #003559; background-color: #E4C9B0; width: 600px; height: 300px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
+max-width: 1200px;
+ margin: 0 auto;
+}
+
+body { .permission-box { float:left; color: #003559; background-color: #E4C9B0; width: 600px; height: 300px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
+max-width: 1200px;
+ margin: 0 auto;
+}
+
 .whospurli-box {float: right; color: #003559; background-color: #E4C9B0; width: 580px; height: 170px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 .quotes-box { float: left; color: #003559; background-color: #e9c1e7; width: 600px; height: 200px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 .hobbies { float:inline-start; color:#003559; background-color: #E4C9B0; width: 620px; height: 145px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
@@ -24,7 +35,13 @@ nav{ text-align:center }
 .beach { margin-top: 10px; margin-bottom: 10px; border-radius: 30px; padding: 10px; }
 .endofwebsite  { float:left; color: #003559; background-color: #E4C9B0; width: 865px; height: 130px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px;  }
 .byeee  { border-radius: 30px; padding: 10px; margin: 10px }
+
+body { 
 .nyc { float:right; border-radius: 30px; padding: 10px; margin: 10px }
+max-width: 1200px;
+ margin: 0 auto;
+}
+
 .cali { float:right; border-radius: 30px; padding: 10px; margin: 10px }
 .turtle { float: left; border-radius: 30px; padding: 10px; margin: 10px }
 .surfboards { float: left; border-radius: 30px; padding: 10px; margin: 10px }
