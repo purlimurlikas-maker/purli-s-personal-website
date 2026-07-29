@@ -1,6 +1,8 @@
-body{ 
-background-color: #809BCE;
-font-family: Georgia, 'Times New Roman', Times, serif;
+body {
+ background-color: #809BCE;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ width: 1200px; 
+ margin: 0 auto;
 }
 
 
@@ -8,40 +10,32 @@ h1 { color: #002f4f; font-family: 'Courier New', Courier, monospace; font-weight
 h2 { color: #002f4f; font-family: 'Courier New', Courier, monospace; font-weight: 900; font-style: italic; text-align: justify; font-size: 23px }
 nav{ text-align:center } 
 
-
-body { .about-box{ float:left;color: #003559; background-color: #E4C9B0; width: 600px; height: 300px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
-max-width: 1200px;
- margin: 0 auto;
-}
-
-body { .permission-box { float:left; color: #003559; background-color: #E4C9B0; width: 600px; height: 300px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
-max-width: 1200px;
- margin: 0 auto;
-}
-
+.about-box{ float:left;color: #003559; background-color: #E4C9B0; width: 600px; height: 150px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
+.permission-box { float:left; color: #003559; background-color: #E4C9B0; width: 600px; height: 300px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 .whospurli-box {float: right; color: #003559; background-color: #E4C9B0; width: 580px; height: 170px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 .quotes-box { float: left; color: #003559; background-color: #e9c1e7; width: 600px; height: 200px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 .hobbies { float:inline-start; color:#003559; background-color: #E4C9B0; width: 620px; height: 145px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 .projects { float:right; color: #003559; background-color: #E4C9B0; width: 300px; height: 150px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 .contact { float:right; color: #003559; background-color: #E4C9B0; width: 300px; height: 110px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px;  }
-.gifbeyonce { float: left; border-radius: 30px; padding: 10px; margin: 10px}
+.gifbeyonce { float: left; border-radius: 30px; padding: 10px; width:230px; margin: 10px; }
 .favourites { float:inline-start; color:#003559; background-color: #E4C9B0; width: 890px; height: 120px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
-.BlueIvy { float: right; margin: 10px; border-radius: 30px; padding: 10px;}
-.GeorgeT { float:left }
-.Beysilhouette { float:middle }
-.Kimi { float: right }
+.BlueIvy { float: right; margin: 10px; border-radius: 30px; padding: 10px; width: 210px;}
+.GeorgeT { float:left; height: 200px }
+.Beysilhouette { float:middle;  width: 327px }
+.Kimi { float: right; width: 292.9px }
 .EnderPearl { float: right; border-radius: 30px; padding: 10px; margin: 10px}
 .pics { float:left; background-color: #00000a; width: 900px; height: 200px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin-bottom: 10px; margin-top: 10px }
-.beach { margin-top: 10px; margin-bottom: 10px; border-radius: 30px; padding: 10px; }
+.beach { margin-top: 10px; margin-bottom: 10px; border-radius: 30px; padding: 10px; width:1200px; height:400px }
 .endofwebsite  { float:left; color: #003559; background-color: #E4C9B0; width: 865px; height: 130px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px;  }
-.byeee  { border-radius: 30px; padding: 10px; margin: 10px }
-
-body { 
-.nyc { float:right; border-radius: 30px; padding: 10px; margin: 10px }
-max-width: 1200px;
- margin: 0 auto;
+.byeee  { border-radius: 30px; padding: 10px; margin: 10px; width: 870px }
+.nyc { float:right; border-radius: 30px; padding: 10px; margin: 10px; width: 300px }
+.cali { float:right; border-radius: 30px; padding: 10px; margin: 10px; width: 450px }
+.surfboards { float: left; border-radius: 30px; padding: 10px; margin: 10px;  width: 514px }
+.beyhi { float:inline-end; border-radius: 30px; padding: 10px; margin: 10px; width: 170px }
+.beyeyes {  border-radius: 30px; padding: 10px;margin-top: 10px; width:270px }
+.beyy2k {  border-radius: 30px; padding: 10px; margin-bottom: 10px; width:270px }
+.image-stack {
+ width: 290px;
+ float: left;
+ margin-right: 10px;
 }
-
-.cali { float:right; border-radius: 30px; padding: 10px; margin: 10px }
-.turtle { float: left; border-radius: 30px; padding: 10px; margin: 10px }
-.surfboards { float: left; border-radius: 30px; padding: 10px; margin: 10px }
