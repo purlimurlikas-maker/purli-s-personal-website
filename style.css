@@ -1,7 +1,7 @@
 body {
  background-color: #809BCE;
  font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;
- width: 1200px; 
+ width: 1600px; 
  margin: 0 auto;
 }
 
@@ -29,10 +29,10 @@ nav{ text-align:center }
 .endofwebsite  { float:left; color: #003559; background-color: #E4C9B0; width: 865px; height: 130px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px;  }
 .byeee  { border-radius: 30px; padding: 10px; margin: 10px; width: 870px }
 .nyc { float:right; border-radius: 30px; padding: 10px; margin: 10px; width: 300px }
-.cali { float: right; border-radius: 30px; padding: 10px; margin: 10px; width: 510px }
+.cali { float: inline-end; border-radius: 30px; padding: 10px; margin: 10px; width: 510px }
 .surfboards { float: left; border-radius: 30px; padding: 10px; margin: 10px;  width: 514px }
 .beyhi { float:inline-end; border-radius: 30px; padding: 10px; margin: 10px; width: 170px }
 .beyeyes {  border-radius: 30px; padding: 10px;margin-top: 10px; width:270px }
 .beyy2k {  border-radius: 30px; padding: 10px; margin-bottom: 10px; width:270px }
 .image-stack { width: 290px; float: left; margin-right: 10px; }
-.bluewhiteshirt { float: left; border-radius: 30px; padding: 10px; margin: 10px; width: 240px }
+.bluewhiteshirt { float: left; border-radius: 30px; padding: 10px; margin: 10px; width: 300px }
