@@ -10,6 +10,24 @@ h2 { color: #002f4f; font-family: 'Courier New', Courier, monospace; font-weight
 nav{ text-align:center } 
 normal-text { color: #003559; font-family: 'Courier New', Courier, monospace; font-weight: 900; font-style: italic; text-align: justify; font-size: clamp(1rem, 2vw, 1.5rem) }
 
+nav a {
+ display: inline-block;
+ padding: 10px 18px;
+ margin: 4px;
+ background-color: #E4C9B0;
+ color: #003559;
+ text-decoration: none;
+ border-radius: 15px;
+ font-weight: bold;
+ border: 2px solid #003559;
+ transition: all 0.2s ease;
+}
+
+nav a:hover {
+ background-color: #003559;
+ color: #E4C9B0;
+}
+
 .about-box{ float:left;color: #003559; background-color: #E4C9B0; width: clamp(310px, 60vw, 750px); height: 30vh; max-height: 300px ; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 
 .permission-box { float: left; color: #003559; background-color: #E4C9B0; width: clamp(310px, 60vw, 750px); height: 50vh; max-height: 600px ;; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
