@@ -30,7 +30,7 @@ nav a:hover {
 
 .about-box{ float:left;color: #003559; background-color: #E4C9B0; width: clamp(310px, 60vw, 750px); height: 30vh; max-height: 300px ; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 
-.permission-box { float: left; color: #003559; background-color: #E4C9B0; width: clamp(310px, 60vw, 750px); height: 50vh; max-height: 600px ;; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
+.permission-box { float: left; color: #003559; background-color: #E4C9B0; width: clamp(310px, 60vw, 750px); height: 60vh; max-height: 600px ;; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 
 .whospurli-box {float: right; color: #003559; background-color: #E4C9B0; width: clamp(180px, 60vw, 750px); height: 30vh; max-height: 300px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 
