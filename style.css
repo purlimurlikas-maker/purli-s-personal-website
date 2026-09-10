@@ -36,7 +36,7 @@ nav a:hover {
 
 .hobbies { float:inline-start; color:#003559; background-color: #E4C9B0; width: clamp(310px, 60vw, 750px); height: 22vh; max-height: 250px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 
-.projects { float:right; color: #003559; background-color: #E4C9B0; width: clamp(310px, 60vw, 750px); height: 40vh; max-height: 400px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
+.projects { float:right; color: #003559; background-color: #E4C9B0; width: clamp(310px, 60vw, 750px); height: 50vh; max-height: 400px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px; }
 
 .contact { float:right; color: #003559; background-color: #E4C9B0; width:  clamp(310px, 60vw, 750px); height: 20vh; max-height: 300px; border: 3px solid #003559; border-radius: 30px; padding: 10px; margin: 10px;  }
 
